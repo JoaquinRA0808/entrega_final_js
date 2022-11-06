@@ -1,0 +1,51 @@
+[
+    {
+      "id": 25113,
+      "title": "zapatillas Adidas",
+      "price": 25000,
+      "categoria": "Zapatillas",
+      "Img": "imagenes/zapatillasAdidas.webp"
+    },
+    {
+      "id": 25252,
+      "title": "zapatillas Nike",
+      "price": 21000,
+      "categoria": "Zapatillas",
+      "Img": "assets/zapatillas nike.jpg"
+    },
+    {
+      "id": 25145,
+      "title": "zapatillas Puma",
+      "price": 22000,
+      "categoria": "Zapatillas",
+      "Img": "assets/zapatillas puma.jpg"
+    },
+    {
+      "id": 12055,
+      "title": "buzo con capucha ",
+      "price": 8000,
+      "categoria": "Buzos",
+      "Img": "assets/buzonewbalance.jpg"
+    },
+    {
+      "id": 13455,
+      "title": "remera Adidas mujer ",
+      "price": 6000,
+      "categoria": "Remeras",
+      "Img": "assets/remeras de entrenamiento.jpg"
+    },
+    {
+      "id": 95263,
+      "title": "remera Under Armour",
+      "price": 11000,
+      "categoria": "Remeras",
+      "Img": "assets/remera under.jpg"
+    },
+    {
+      "id": 92546,
+      "title": "Remera Nike",
+      "price": 11000,
+      "categoria": "Remeras",
+      "Img": "assets/remera blanca.jpg"
+    }
+  ]
